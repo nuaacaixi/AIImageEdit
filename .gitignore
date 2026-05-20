@@ -1,0 +1,16 @@
+# Go build files
+**/bin/
+**/pkg/
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+
+# Node modules
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+
+# Local image storage
+backend/storage/images/
